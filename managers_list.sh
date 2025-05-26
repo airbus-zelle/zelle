@@ -8,3 +8,5 @@ Jaheed
 Florence
 Javes
 Michael 
+Zidane
+DevOps Class
