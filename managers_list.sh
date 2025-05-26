@@ -1,9 +1,10 @@
-List 
+List of managers: 
 Becky
 Idriss 
 Shamar
 Luna
 Guillaume
-Laura
 Jaheed
 Florence
+Javes
+Michael 
