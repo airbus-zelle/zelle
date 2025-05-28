@@ -1,9 +1,13 @@
-List 
+List of managers: 
 Becky
 Idriss 
 Shamar
 Luna
-Guillaume
-Laura
+Israel
 Jaheed
 Florence
+Javes
+Michael 
+Zidane
+DevOps Class
+Eric 
