@@ -1,2 +1,4 @@
 DevOps
 Python
+Docker
+Terraform
